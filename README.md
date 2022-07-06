@@ -17,6 +17,6 @@
 ### 5. Data visualization
 ### 6. Key insights
 
-![project steps](https://github.com/davidokenwa/Landscape_of_World-s_Unicorns_2022/blob/main/project%20steps.png)
+![project steps](https://github.com/davidokenwa/Landscape_of_World-s_Unicorns_2022/blob/main/project_steps.png)
 
-![](https://drive.google.com/file/d/1isrsKlWvZHxqxvjui_QJFvuaWl1IuZjU/view?usp=sharing)
+
