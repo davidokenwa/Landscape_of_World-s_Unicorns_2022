@@ -18,8 +18,8 @@
 #### 6. Key insights
 
 | ![project steps](https://github.com/davidokenwa/Landscape_of_World-s_Unicorns_2022/blob/main/project_steps.png) | 
-| -------- | 
-| **Project Steps. Maven Unicorn Challenge.** _Designed by David Okenwa in PowerPoint_  |
+| :--------: | 
+| **Project Steps. Maven Unicorn Challenge.** _Designed by David Okenwa using PowerPoint_  |
 
 ### **1. Getting Clarifications**
 
@@ -50,7 +50,7 @@ Here, I dug intothe data to find patterns and infomation for myself. Not all the
 Here, I sketched the dashboard's outline on an A4. I did this after exploration and after getting inspiration from other vizzes. It is a good practise to have a sketch before starting the building of the dashboard.
 
 | ![viz sketch](https://github.com/davidokenwa/Landscape_of_World-s_Unicorns_2022/blob/main/viz%20sketch_5.jpg) | 
-| -------- | 
+| :--------: | 
 | **Sketch of dashboard’s outline.** _By David Okenwa_  |
 
 
