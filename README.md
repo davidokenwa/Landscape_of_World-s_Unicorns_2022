@@ -17,9 +17,6 @@
 #### 5. Data visualization
 #### 6. Key insights
 
-![project steps](https://github.com/davidokenwa/Landscape_of_World-s_Unicorns_2022/blob/main/project_steps.png)
-
-
 | ![project steps](https://github.com/davidokenwa/Landscape_of_World-s_Unicorns_2022/blob/main/project_steps.png) | 
 | -------- | 
 | **Project Steps. Maven Unicorn Challenge.** _Designed by David Okenwa in PowerPoint_  |
@@ -68,8 +65,8 @@ I used pivot tables to get the graphs and charts, and formulas to get the single
 * Tell a story
 
 | ![dashboard](https://github.com/davidokenwa/Landscape_of_World-s_Unicorns_2022/blob/main/Unicorn_dashboard.png) | 
-| -------- | 
-| **Maven Unicorn Dashboard** _Designed by David Okenwa with Microsoft Excel_  |
+| :--------: | 
+| **Maven Unicorn Dashboard.** _Designed by David Okenwa with Microsoft Excel_  |
 
 ### **6. Key insights**
 
