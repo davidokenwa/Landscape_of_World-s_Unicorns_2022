@@ -77,7 +77,7 @@ Here are some of my insights from the dashboard:
 * There is a recent surge in the number of unicorns.
 * USA has more unicorns than the rest of the world combined.
 * Could Africa be a fertile ground for unicorns if given more investment and attention?
-
+---
 
 ### **Relevant Links**
 
