@@ -41,7 +41,7 @@ I looked through the data to find possible missing data, wrong entries, incorrec
 To ensure a clean data, I formatted the "Valuation" and "Funding" columns as numbers, I replaced rows where funding was unavailable with the average funding, I split the "Select Investors" column into multiple columns each with a single investor and unpivoted it into a single row. I also added two new columns "Year joined" and "Years to unicorn" by applying simple functions and calculations to existing columns. 
 
 
-### **3. Data exploration**
+### **3. Data Exploration**
 
 Here, I dug into the data to find patterns and infomation for myself. Not all the patterns observed during exploration were visualized.
 
@@ -54,7 +54,7 @@ Here, I sketched the dashboard's outline on an A4 sheet. I did this after explor
 | **Sketch of dashboard’s outline.** _By David Okenwa_  |
 
 
-### **5. Data visualization**
+### **5. Data Visualization**
 
 I used pivot tables to get the graphs and charts, and formulas to get the single digits. Following visualization principles, I edited the default Excel charts to get a less cluttered and beautiful one. Some important visualization principles I followed include:
 
@@ -68,7 +68,7 @@ I used pivot tables to get the graphs and charts, and formulas to get the single
 | :--------: | 
 | **Maven Unicorn Dashboard.** _Designed by David Okenwa with Microsoft Excel_  |
 
-### **6. Key insights**
+### **6. Key Insights**
 
 Here are some of my insights from the dashboard:
 
