@@ -43,11 +43,11 @@ To ensure a clean data, I formatted the "Valuation" and "Funding" columns as num
 
 ### **3. Data exploration**
 
-Here, I dug intothe data to find patterns and infomation for myself. Not all the patterns observed during exploration were visualized.
+Here, I dug into the data to find patterns and infomation for myself. Not all the patterns observed during exploration were visualized.
 
 ### **4. Sketching**
 
-Here, I sketched the dashboard's outline on an A4. I did this after exploration and after getting inspiration from other vizzes. It is a good practise to have a sketch before starting the building of the dashboard.
+Here, I sketched the dashboard's outline on an A4 sheet. I did this after exploration and after getting inspiration from other vizzes. It is a good practise to have a sketch before starting the dashboard.
 
 | ![viz sketch](https://github.com/davidokenwa/Landscape_of_World-s_Unicorns_2022/blob/main/viz%20sketch_5.jpg) | 
 | :--------: | 
