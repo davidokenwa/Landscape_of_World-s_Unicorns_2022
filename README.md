@@ -49,7 +49,7 @@ Here, I dug into the data to find patterns and infomation for myself. Not all th
 
 Here, I sketched the dashboard's outline on an A4 sheet. I did this after exploration and after getting inspiration from other vizzes. It is a good practise to have a sketch before starting the dashboard.
 
-| ![viz sketch](https://github.com/davidokenwa/Landscape_of_World-s_Unicorns_2022/blob/main/viz%20sketch_5.jpg) | 
+| ![viz sketch](https://github.com/davidokenwa/Landscape_of_World-s_Unicorns_2022/blob/main/viz%20sketch_5.jpg "Optional Title") | 
 | :--------: | 
 | **Sketch of dashboard’s outline.** _By David Okenwa_  |
 
